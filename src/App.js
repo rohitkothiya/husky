@@ -28,13 +28,13 @@ function App(props) {
                    <nav>
                       <ul>
                                     <li>
-                  <Link to="/">Homessfs</Link>
+                  <Link to="/">Home</Link>
                         </li>
                         <li>
-                                                    <Link to="/about">Absfsfsfssout</Link>
+                                                    <Link to="/about">About</Link>
                          </li>
             <li>
-                                      <Link to="/users">Usefssfsfsrs</Link>
+                                      <Link to="/users">Users</Link>
             </li>
                       </ul>
         </nav>

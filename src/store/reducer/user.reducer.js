@@ -7,15 +7,15 @@ import {
 };
 
 const user = (state = initialState, action) => {
-                                switch (action.type) {
-                         case FETCH_USER:
-                    
+                                                      switch (action.type) {
+                                      case FETCH_USER:
+                                 
 
-                             return {
+                                                          return {
                                                     userData: {
-                              name: "rohitKDEv",
-                                                       surName: "kothiya",
-                                                                  age: "25"
+                                                                       name: "rohitKDEvEnv",
+                                                        surName: "kothiya RG",
+                                                                  age: "24"
                         }
                   }
                             default:
